@@ -1,6 +1,7 @@
 export default [
     {
         name: 'The Willos',
+        image: 'https://i.imgur.com/tKSjPKd.jpg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -9,6 +10,7 @@ export default [
     },
     {
         name: 'Orchard House',
+        image: 'https://i.imgur.com/tKSjPKd.jpg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -17,6 +19,7 @@ export default [
     },
     {
         name: 'Orchard House',
+        image: 'https://i.imgur.com/tKSjPKd.jpg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -25,6 +28,7 @@ export default [
     },
     {
         name: 'The Willos',
+        image: 'https://i.imgur.com/tKSjPKd.jpg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -33,6 +37,7 @@ export default [
     },
     {
         name: 'Corner House',
+        image: 'https://i.imgur.com/tKSjPKd.jpg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
