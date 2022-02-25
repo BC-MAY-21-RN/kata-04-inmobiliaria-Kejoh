@@ -1,0 +1,42 @@
+export default [
+    {
+        name: 'The Willos',
+        direction: '3517 W. Gray St. Utica',
+        rooms: 3,
+        bathroom: 2,
+        superfice: '230 ft2',
+        cost: '$440/m',
+    },
+    {
+        name: 'Orchard House',
+        direction: '3517 W. Gray St. Utica',
+        rooms: 3,
+        bathroom: 2,
+        superfice: '230 ft2',
+        cost: '$440/m',
+    },
+    {
+        name: 'Orchard House',
+        direction: '3517 W. Gray St. Utica',
+        rooms: 3,
+        bathroom: 2,
+        superfice: '230 ft2',
+        cost: '$440/m',
+    },
+    {
+        name: 'The Willos',
+        direction: '3517 W. Gray St. Utica',
+        rooms: 3,
+        bathroom: 2,
+        superfice: '230 ft2',
+        cost: '$440/m',
+    },
+    {
+        name: 'Corner House',
+        direction: '3517 W. Gray St. Utica',
+        rooms: 3,
+        bathroom: 2,
+        superfice: '230 ft2',
+        cost: '$440/m',
+    },
+]
