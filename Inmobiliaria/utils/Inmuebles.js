@@ -1,7 +1,8 @@
 export default [
     {
+        id: 1,
         name: 'The Willos',
-        image: 'https://i.imgur.com/tKSjPKd.jpg',
+        image: 'https://www.eltiempo.com/uploads/2021/11/30/61a6a7be898cb.jpeg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -9,8 +10,9 @@ export default [
         cost: '$440/m',
     },
     {
+        id: 2,
         name: 'Orchard House',
-        image: 'https://i.imgur.com/tKSjPKd.jpg',
+        image: 'https://static.construible.es/media/2020/07/edificio-puerta-alicante-elche-obtiene-certificacion-verde-3-hojas-2.png',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -18,8 +20,9 @@ export default [
         cost: '$440/m',
     },
     {
+        id: 3,
         name: 'Orchard House',
-        image: 'https://i.imgur.com/tKSjPKd.jpg',
+        image: 'https://static.construible.es/media/2020/07/edificio-puerta-alicante-elche-obtiene-certificacion-verde-3-hojas-2.png',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -27,8 +30,9 @@ export default [
         cost: '$440/m',
     },
     {
+        id: 4,
         name: 'The Willos',
-        image: 'https://i.imgur.com/tKSjPKd.jpg',
+        image: 'https://www.eltiempo.com/uploads/2021/11/30/61a6a7be898cb.jpeg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,
@@ -36,8 +40,9 @@ export default [
         cost: '$440/m',
     },
     {
+        id: 5,
         name: 'Corner House',
-        image: 'https://i.imgur.com/tKSjPKd.jpg',
+        image: 'https://laboratorio.latercera.com/wp-content/uploads/2019/06/portada-1.jpg',
         direction: '3517 W. Gray St. Utica',
         rooms: 3,
         bathroom: 2,

@@ -1,7 +1,7 @@
 import { StyleSheet, View, FlatList } from 'react-native'
 import React from 'react'
 import colors from '../utils/colors';
-import InmueblesDetails from './InmueblesDetails';
+import InmueblesCard from './InmueblesCard';
 import Inmuebles from '../utils/Inmuebles';
 
 const Inmuble = () => {
@@ -11,7 +11,7 @@ const Inmuble = () => {
       <View>
         <FlatList
           data={Inmuebles}
-          renderItem={({item}) => <InmueblesDetails  inmueble={item} />}
+          renderItem={({item}) => <InmueblesCard  inmueble={item} />}
           keyExtractor={inmueble => inmueble.id}
           showsHorizontalScrollIndicator={true}
         />
