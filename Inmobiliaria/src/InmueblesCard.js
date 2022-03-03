@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View, Image } from 'react-native'
 import React from 'react'
+import Icon from 'react-native-vector-icons/FontAwesome';
 
 
 const InmueblesDetails = ( {inmueble}) => {
@@ -7,11 +8,12 @@ const InmueblesDetails = ( {inmueble}) => {
         <View style={styles.container}>
             <Image style={styles.img} source={{ uri: inmueble.image}}/>
             <View> 
+                {/* <Icon name="search" size={15} color="#ffffff" /> */}
                 <Text style={styles.title}>{inmueble.name}</Text>
                 <Text style={{paddingLeft: 20}}>{inmueble.direction}</Text>
                 <View style={styles.datos}>
-                    <Text>{inmueble.rooms}</Text>
-                    <Text>{inmueble.bathroom}</Text>
+                    <Icon name="bed"/><Text>{inmueble.rooms}</Text>
+                    <Icon name="bath"/><Text>{inmueble.bathroom}</Text>
                     <Text>{inmueble.superfice}</Text>
                 </View>
                 <Text style={styles.cost}>{inmueble.cost}</Text>
